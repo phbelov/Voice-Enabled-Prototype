@@ -1,0 +1,39 @@
+app.coffee
+framer/backups/backup-2017-05-23 01.40.15.coffee
+framer/backups/backup-2017-05-23 01.41.15.coffee
+framer/backups/backup-2017-05-23 01.43.15.coffee
+framer/backups/backup-2017-05-23 01.45.16.coffee
+framer/backups/backup-2017-05-24 10.51.44.coffee
+framer/backups/backup-2017-05-24 15.12.39.coffee
+framer/backups/backup-2017-05-24 19.21.38.coffee
+framer/backups/backup-2017-05-24 19.22.38.coffee
+framer/backups/backup-2017-05-24 19.23.38.coffee
+framer/backups/backup-2017-05-24 19.24.38.coffee
+framer/backups/backup-2017-05-24 19.27.59.coffee
+framer/backups/backup-2017-05-24 19.46.59.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/social-1200x630.png
+framer/social-800x600.png
+framer/social-80x80.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+index.html
+modules/myModule.coffee
